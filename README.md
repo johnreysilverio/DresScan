@@ -25,13 +25,9 @@
 
   Activate the virtual environment:
 
-  On Windows: 
-  
-  ```myenv\Scripts\activate```
+  On Windows: ```myenv\Scripts\activate```
 
-  On macOS/Linux: 
-  
-  ```source myenv/bin/activate```
+  On macOS/Linux: ```source myenv/bin/activate```
   
   Once activated, you should see (myenv) at the beginning of your terminal prompt, indicating that the virtual environment is active.
   
