@@ -1,5 +1,7 @@
 # **DresScan**
 
+## **License**
+[MIT License](LICENSE)
 ## **To Train the program:**
 
 ## **To Run the program:**
