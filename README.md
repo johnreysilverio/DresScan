@@ -17,7 +17,7 @@
      ```type
      python3 --version
      ```  
- 4.  If the version is not 3.12.4, you may need to install or upgrade Python to version 3.12.4.
+ 3.  If the version is not 3.12.4, you may need to install or upgrade Python to version 3.12.4.
 
   To download Python 3.12.4, visit the official Python website:
   https://www.python.org/downloads/release/python-3124/
