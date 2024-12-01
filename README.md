@@ -24,9 +24,13 @@
   
 ### **Step 2: Create a Virtual Environment**
 1. Navigate to the directory where your project is located using the cd command. For example:
+
    ```cd path/to/your/project```
+ 
 2. Create a virtual environment using venv. Replace myenv with the name you want to give your virtual environment:
+
    ```python3 -m venv myenv```
+
   On Windows, you might need to use python instead of python3.
 
 ### **Step 3: Activate the Virtual Environment**
