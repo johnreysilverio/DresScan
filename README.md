@@ -1,5 +1,7 @@
-To Train the program:
+**To Train the program:**
+
 **To Run the program:**
+
 **Step 1: Check Python Version**
 
   Open your terminal or command prompt.
