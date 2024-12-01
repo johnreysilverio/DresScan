@@ -25,25 +25,22 @@
 
   Activate the virtual environment:
 
-  On Windows: ```myenv\Scripts\activate```
+  On Windows: ```myvenv\Scripts\activate```
 
-  On macOS/Linux: ```source myenv/bin/activate```
+  On macOS/Linux: ```source myvenv/bin/activate```
   
-  Once activated, you should see (myenv) at the beginning of your terminal prompt, indicating that the virtual environment is active.
+  Once activated, you should see (myvenv) at the beginning of your terminal prompt, indicating that the virtual environment is active.
   
 ### **Step 4: Install Dependencies**
 
   1. Ensure you have your requirements.txt file in the project directory.
-  2. Install the required dependencies listed in requirements.txt by running: pip install -r requirements.txt
-  This will automatically install all the libraries and packages needed for your project, such as cv2, pyttsx3, ultralytics, etc.
+  2. Install the required dependencies listed in requirements.txt by running: ```pip install -r requirements.txt```
 
 ### **Step 5: Run Your Program**
 
-  1. Run your program (e.g., app.py) after installing all dependencies: python app.py
-  This will start the program, and you should see the GUI running along with the object detection.
+  1. Run your program after installing all dependencies: ```python app.py```
 
 ### **Step 6: Deactivate the Virtual Environment (When Done)**
 
-  1. After you finish working, you can deactivate the virtual environment by running: deactivate
-  Now, you have a clear set of steps to get your program running! Let me know if you need more details or run into any issues.
+  1. After you finish working, you can deactivate the virtual environment by running: ```deactivate```
 
