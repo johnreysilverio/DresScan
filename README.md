@@ -13,7 +13,7 @@
     
     python --version
     
-or
+ or
 
     python3 --version
     
