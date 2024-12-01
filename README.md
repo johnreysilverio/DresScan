@@ -9,11 +9,7 @@
 ### **Step 1: Check Python Version**
 
  1.  Open your terminal or command prompt.
- 2.  Check your Python version to make sure it's version 3.12.4:
-    
-```python --version```
-or
-```python3 --version```
+ 2.  Check your Python version to make sure it's version 3.12.4: ```python --version``` or ```python3 --version```
     
  3.  If the version is not 3.12.4, you may need to install or upgrade Python to version 3.12.4.
 
@@ -21,17 +17,9 @@ or
   https://www.python.org/downloads/release/python-3124/
   
 ### **Step 2: Create a Virtual Environment**
-1. Navigate to the directory where your project is located using the cd command. For example:
-
-       cd path/to/your/project
+1. Navigate to the directory where your project is located using the cd command. For example: ```cd path/to/your/project```
  
-2. Create a virtual environment using venv. Replace myenv with the name you want to give your virtual environment:
-
-       python3 -m venv myenv
-   
-or
-
-       python -m venv myenv
+2. Create a virtual environment using venv. Replace myenv with the name you want to give your virtual environment: ```python3 -m venv myenv``` or ```python -m venv myenv```
 
 ### **Step 3: Activate the Virtual Environment**
 
