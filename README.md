@@ -12,8 +12,7 @@
  2.  Check your Python version to make sure it's version 3.12.4:
     
     python --version
-    
- or
+   or
 
     python3 --version
     
