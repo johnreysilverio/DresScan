@@ -25,7 +25,7 @@
   1. Activate the virtual environment:
 
      On Windows: ```python
-                     myvenv\Scripts\activate
+                 myvenv\Scripts\activate
                  ```
 
      On macOS/Linux: ```source myvenv/bin/activate```
