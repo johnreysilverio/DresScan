@@ -24,7 +24,7 @@
 
   1. Activate the virtual environment:
 
-     On Windows: ```bash
+     On Windows: ```terminal
                      myvenv\Scripts\activate
                  ```
 
