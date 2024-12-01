@@ -22,13 +22,10 @@
 
 ### **Step 3: Activate the Virtual Environment**
 
-  Activate the virtual environment:
-
-  On Windows: ```myvenv\Scripts\activate```
-
-  On macOS/Linux: ```source myvenv/bin/activate```
-  
-  Once activated, you should see (myvenv) at the beginning of your terminal prompt, indicating that the virtual environment is active.
+  1. Activate the virtual environment:
+     On Windows: ```myvenv\Scripts\activate```
+     On macOS/Linux: ```source myvenv/bin/activate```
+Once activated, you should see (myvenv) at the beginning of your terminal prompt, indicating that the virtual environment is active.
   
 ### **Step 4: Install Dependencies**
 
