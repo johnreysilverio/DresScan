@@ -23,12 +23,19 @@
   https://www.python.org/downloads/release/python-3124/
   
 ### **Step 2: Create a Virtual Environment**
- 1. Navigate to the directory where your project is located using the cd command. For example:
-   ```type
-   cd path/to/your/project
-   ```
- 
- 2. Create a virtual environment using venv. Replace myenv with the name you want to give your virtual environment: ```python3 -m venv myenv``` or ```python -m venv myenv```
+ 1. Navigate to the directory where your project is located using the cd command.
+    ```type
+    cd path/to/your/project
+    ```
+ 2. Create a virtual environment using venv. Replace myvenv with the name you want to give your virtual envrionment:
+    ```type
+    python3 -m venv myvenv
+    ```
+    or
+    ```type
+    python -m venv myvenv
+    ```
+    
 
 ### **Step 3: Activate the Virtual Environment**
 
