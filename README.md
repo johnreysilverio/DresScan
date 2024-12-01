@@ -24,9 +24,10 @@
 
   1. Activate the virtual environment:
 
-     On Windows: ```type
-                 myvenv\Scripts\activate
-                 ```
+     On Windows:
+     ```type
+     myvenv\Scripts\activate
+     ```
 
      On macOS/Linux: ```source myvenv/bin/activate```
 
