@@ -35,9 +35,10 @@ To Train the program:
 **Step 5: Run Your Program**
 
   Run your program (e.g., app.py) after installing all dependencies: python app.py
-This will start the program, and you should see the GUI running along with the object detection.
+  This will start the program, and you should see the GUI running along with the object detection.
 
-Step 6: Deactivate the Virtual Environment (When Done)
+**Step 6: Deactivate the Virtual Environment (When Done)**
+
   After you finish working, you can deactivate the virtual environment by running: deactivate
   Now, you have a clear set of steps to get your program running! Let me know if you need more details or run into any issues.
 
