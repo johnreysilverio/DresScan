@@ -34,8 +34,6 @@ or
 
        python -m venv myenv
 
-  On Windows, you might need to use python instead of python3.
-
 ### **Step 3: Activate the Virtual Environment**
 
   Activate the virtual environment:
