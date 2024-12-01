@@ -1,8 +1,10 @@
-**To Train the program:**
+# **DresScan**
 
-**To Run the program:**
+## **To Train the program:**
 
-**Step 1: Check Python Version**
+## **To Run the program:**
+
+### **Step 1: Check Python Version**
 
   Open your terminal or command prompt.
 
@@ -12,14 +14,14 @@
   To download Python 3.12.4, visit the official Python website:
   https://www.python.org/downloads/release/python-3124/
   
-**Step 2: Create a Virtual Environment**
+### **Step 2: Create a Virtual Environment**
 
   Navigate to the directory where your project is located using the cd command. For example: cd path/to/your/project
   
   Create a virtual environment using venv. Replace myenv with the name you want to give your virtual environment: python3 -m venv myenv
   On Windows, you might need to use python instead of python3.
 
-**Step 3: Activate the Virtual Environment**
+### **Step 3: Activate the Virtual Environment**
 
   Activate the virtual environment:
 
@@ -27,19 +29,19 @@
   On macOS/Linux: source myenv/bin/activate
   Once activated, you should see (myenv) at the beginning of your terminal prompt, indicating that the virtual environment is active.
   
-**Step 4: Install Dependencies**
+### **Step 4: Install Dependencies**
 
   Ensure you have your requirements.txt file in the project directory.
 
   Install the required dependencies listed in requirements.txt by running: pip install -r requirements.txt
   This will automatically install all the libraries and packages needed for your project, such as cv2, pyttsx3, ultralytics, etc.
 
-**Step 5: Run Your Program**
+### **Step 5: Run Your Program**
 
   Run your program (e.g., app.py) after installing all dependencies: python app.py
   This will start the program, and you should see the GUI running along with the object detection.
 
-**Step 6: Deactivate the Virtual Environment (When Done)**
+## **Step 6: Deactivate the Virtual Environment (When Done)**
 
   After you finish working, you can deactivate the virtual environment by running: deactivate
   Now, you have a clear set of steps to get your program running! Let me know if you need more details or run into any issues.
