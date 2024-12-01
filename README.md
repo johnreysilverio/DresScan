@@ -9,7 +9,10 @@
 ### **Step 1: Check Python Version**
 
  1.  Open your terminal or command prompt.
- 2.  Check your Python version to make sure it's version 3.12.4: python --version or python3 --version
+ 2.  Check your Python version to make sure it's version 3.12.4:
+    ```bash python --version```
+or
+python3 --version
  3.  If the version is not 3.12.4, you may need to install or upgrade Python to version 3.12.4.
 
   To download Python 3.12.4, visit the official Python website:
