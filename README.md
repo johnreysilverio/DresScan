@@ -31,7 +31,7 @@
     ```type
     python3 -m venv myvenv
     ```
-    or
+    or on Windows, use:
     ```type
     python -m venv myvenv
     ```
