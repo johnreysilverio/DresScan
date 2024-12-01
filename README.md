@@ -23,7 +23,10 @@
   https://www.python.org/downloads/release/python-3124/
   
 ### **Step 2: Create a Virtual Environment**
-1. Navigate to the directory where your project is located using the cd command. For example: ```cd path/to/your/project```
+1. Navigate to the directory where your project is located using the cd command. For example:
+   ```type
+   cd path/to/your/project
+   ```
  
 2. Create a virtual environment using venv. Replace myenv with the name you want to give your virtual environment: ```python3 -m venv myenv``` or ```python -m venv myenv```
 
@@ -45,14 +48,23 @@ Once activated, you should see (myvenv) at the beginning of your terminal prompt
   
 ### **Step 4: Install Dependencies**
 
-  1. Ensure you have your requirements.txt file in the project directory.
-  2. Install the required dependencies listed in requirements.txt by running: ```pip install -r requirements.txt```
+  1. Ensure you have your ```requirements.txt``` file in the project directory.
+  2. Install the required dependencies listed in requirements.txt by running:
+     ```type
+     pip install -r requirements.txt
+     ```
 
 ### **Step 5: Run Your Program**
 
-  1. Run your program after installing all dependencies: ```python app.py```
+  1. Run your program after installing all dependencies:
+     ```type
+     python app.py
+     ```
 
 ### **Step 6: Deactivate the Virtual Environment (When Done)**
 
-  1. After you finish working, you can deactivate the virtual environment by running: ```deactivate```
+  1. After you finish working, you can deactivate the virtual environment by running:
+     ```type
+     deactivate
+     ```
 
