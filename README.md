@@ -24,7 +24,7 @@
 
   1. Activate the virtual environment:
 
-     On Windows: ```python
+     On Windows: ```type
                  myvenv\Scripts\activate
                  ```
 
