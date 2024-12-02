@@ -19,7 +19,7 @@
      ```  
  3.  If the version is not 3.12.4, you may need to install or upgrade Python to version 3.12.4.
 
-     ### **To download [Python 3.12.4](https://www.python.org/downloads/release/python-3124/)**
+     **To download [Python 3.12.4](https://www.python.org/downloads/release/python-3124/)**
   
 ### **Step 2: Create a Virtual Environment**
  1. Navigate to the directory where your project is located using the cd command.
