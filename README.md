@@ -18,8 +18,8 @@
      python3 --version
      ```  
  3.  If the version is not 3.12.4, you may need to install or upgrade Python to version 3.12.4.
-
-  To download Python 3.12.4, visit the official Python website:
+   
+   To download Python 3.12.4, visit the official Python website:
   https://www.python.org/downloads/release/python-3124/
   
 ### **Step 2: Create a Virtual Environment**
